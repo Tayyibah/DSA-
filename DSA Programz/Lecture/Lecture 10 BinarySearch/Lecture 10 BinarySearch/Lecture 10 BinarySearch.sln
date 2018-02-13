@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 10 BinarySearch", "Lecture 10 BinarySearch.vcxproj", "{D5E5F20C-20D6-4D74-ADCB-C68905E857F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E5F20C-20D6-4D74-ADCB-C68905E857F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5E5F20C-20D6-4D74-ADCB-C68905E857F3}.Debug|Win32.Build.0 = Debug|Win32
+		{D5E5F20C-20D6-4D74-ADCB-C68905E857F3}.Release|Win32.ActiveCfg = Release|Win32
+		{D5E5F20C-20D6-4D74-ADCB-C68905E857F3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

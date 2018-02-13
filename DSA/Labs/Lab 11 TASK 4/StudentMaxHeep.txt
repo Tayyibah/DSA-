@@ -1,0 +1,35 @@
+#ifndef STUDENTMAXHEEP
+#define STUDENTMAXHEEP
+class StudentMaxHeap;
+class Student {
+	friend class StudentMaxHeap;
+private:
+	double cgpa;
+	int rollNo; 
+public:
+	double getCgpa()
+	{
+		return cgpa;
+	}
+	int getRollNo()
+	{
+		return rollNo;
+	}
+};
+class StudentMaxHeap {
+private:
+	Student* st;   
+	int currSize;   
+	int maxSize;     
+public:
+	StudentMaxHeap(int size);
+	~StudentMaxHeap();    
+	bool isEmpty();      
+	bool isFull(); 
+	bool insert(int rollNo, double cgpa);
+	void display();
+	bool removeMax(Student & max);
+	void heepify(int i);
+};
+
+#endif

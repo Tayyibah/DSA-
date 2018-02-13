@@ -1,0 +1,18 @@
+Level Order
+– All nodes in the same level are visited from left to right
+– Requires Queue for implementation
+? Algo
+– enQueue (Root)
+– while ( Q not empty )
+? n = front(); deQueue(); print n
+? for each child c of node n
+– enQueue(c)
+? end for
+– end while
+
+
+
+
+
+
+https://books.google.com.pk/books?id=HJ9gds_zhVEC&pg=PA311&lpg=PA311&dq=insert+vertex+in+graph+in+c%2B%2B&source=bl&ots=r_Ol3p-0qK&sig=VEF_pkk15KQGd5IpyNzvF448aD0&hl=en&sa=X&ved=0ahUKEwiws4e-68HKAhUQ1I4KHZ_1AV8Q6AEITjAG#v=onepage&q=insert%20vertex%20in%20graph%20in%20c%2B%2B&f=false

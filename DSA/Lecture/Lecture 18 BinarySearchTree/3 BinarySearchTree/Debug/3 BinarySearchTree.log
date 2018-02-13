@@ -1,0 +1,15 @@
+﻿Build started 1/24/2016 10:52:37 AM.
+     1>Project "D:\Visual Studio 2012\Projects\DSA\Lecture\3,5,6 BinarySearchTree\3 BinarySearchTree\3 BinarySearchTree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BST.cpp
+         BST.cpp
+     1>d:\visual studio 2012\projects\dsa\lecture\3,5,6 binarysearchtree\3 binarysearchtree\bst.cpp(87): error C2059: syntax error : '}'
+     1>d:\visual studio 2012\projects\dsa\lecture\3,5,6 binarysearchtree\3 binarysearchtree\bst.cpp(87): error C2143: syntax error : missing ';' before '}'
+     1>d:\visual studio 2012\projects\dsa\lecture\3,5,6 binarysearchtree\3 binarysearchtree\bst.cpp(91): error C2143: syntax error : missing ';' before '{'
+     1>d:\visual studio 2012\projects\dsa\lecture\3,5,6 binarysearchtree\3 binarysearchtree\bst.cpp(91): error C2447: '{' : missing function header (old-style formal list?)
+     1>d:\visual studio 2012\projects\dsa\lecture\3,5,6 binarysearchtree\3 binarysearchtree\bst.cpp(299): warning C4172: returning address of local variable or temporary
+     1>Done Building Project "D:\Visual Studio 2012\Projects\DSA\Lecture\3,5,6 BinarySearchTree\3 BinarySearchTree\3 BinarySearchTree.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.36

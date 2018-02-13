@@ -1,0 +1,28 @@
+﻿Build started 1/15/2016 2:11:59 AM.
+     1>Project "D:\Visual Studio 2012\Projects\DSA\Labs\Lab 11 StudentMaxHeap Task 4\Lab 11 StudentMaxHeap Task 4\Lab 11 StudentMaxHeap Task 4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt StudentBST.cpp StudentMaxHeap.cpp driver.cpp
+         driver.cpp
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\driver.cpp(7): error C2065: 'Student' : undeclared identifier
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\driver.cpp(7): error C2146: syntax error : missing ';' before identifier 'ss'
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\driver.cpp(7): error C2065: 'ss' : undeclared identifier
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\driver.cpp(10): error C2065: 'ss' : undeclared identifier
+         StudentMaxHeap.cpp
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentmaxheap.cpp(29): error C2039: 'rollNo' : is not a member of 'StudentBST'
+                 d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentbst.h(6) : see declaration of 'StudentBST'
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentmaxheap.cpp(30): error C2039: 'cgpa' : is not a member of 'StudentBST'
+                 d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentbst.h(6) : see declaration of 'StudentBST'
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentmaxheap.cpp(42): error C2039: 'cgpa' : is not a member of 'StudentBST'
+                 d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentbst.h(6) : see declaration of 'StudentBST'
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentmaxheap.cpp(42): error C2039: 'rollNo' : is not a member of 'StudentBST'
+                 d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentbst.h(6) : see declaration of 'StudentBST'
+     1>d:\visual studio 2012\projects\dsa\labs\lab 11 studentmaxheap task 4\lab 11 studentmaxheap task 4\studentmaxheap.cpp(42): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Generating Code...
+         Compiling...
+         StudentBST.cpp
+         Generating Code...
+     1>Done Building Project "D:\Visual Studio 2012\Projects\DSA\Labs\Lab 11 StudentMaxHeap Task 4\Lab 11 StudentMaxHeap Task 4\Lab 11 StudentMaxHeap Task 4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.00

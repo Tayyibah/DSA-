@@ -1,0 +1,15 @@
+﻿Build started 1/15/2016 2:26:59 AM.
+     1>Project "D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Practice Ass 3 FullBinaryTree\Practice Ass 3 FullBinaryTree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FullBinaryTree.cpp
+         FullBinaryTree.cpp
+     1>d:\visual studio 2012\projects\dsa\hometasks\practice ass 3 fullbinarytree\practice ass 3 fullbinarytree\fullbinarytree.cpp(8): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Debug\Practice Ass 3 FullBinaryTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Debug\Practice Ass 3 FullBinaryTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Debug\Practice Ass 3 FullBinaryTree.lib" /MACHINE:X86 Debug\driver.obj
+         Debug\FullBinaryTree.obj
+         Practice Ass 3 FullBinaryTree.vcxproj -> D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Debug\Practice Ass 3 FullBinaryTree.exe
+     1>Done Building Project "D:\Visual Studio 2012\Projects\DSA\hometasks\Practice Ass 3 FullBinaryTree\Practice Ass 3 FullBinaryTree\Practice Ass 3 FullBinaryTree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35

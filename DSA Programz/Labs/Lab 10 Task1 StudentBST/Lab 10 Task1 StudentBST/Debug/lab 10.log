@@ -1,0 +1,14 @@
+﻿Build started 12/31/2015 7:11:11 PM.
+     1>Project "D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\lab 10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt driver.cpp
+         driver.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\Debug\lab 10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\Debug\lab 10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\Debug\lab 10.lib" /MACHINE:X86 Debug\StudentBST.obj
+         Debug\driver.obj
+         lab 10.vcxproj -> D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\Debug\lab 10.exe
+     1>Done Building Project "D:\Visual Studio 2012\Projects\DSA\Labs\Lab 10 1.1 StudentBST\Lab 10\lab 10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58

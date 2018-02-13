@@ -1,0 +1,11 @@
+5
+Imran Khan
+2 33
+Wahab Riaz
+4 66
+Zulfiqar Babar
+0 35
+Yasir Shah
+4 93
+Shoaib Malik
+0 10
